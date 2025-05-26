@@ -16,11 +16,11 @@ Supera el mínimo de 0.85 en F1-score, asegurando una mejora en la identificaci�
 <br>
 
 <h3> 📂 Estructura del Proyecto </h3>
-📁 Categorizacion-reseñas  
+📁 Categorizacion-de-opiniones  
 
 ├── 📄 README.md → Descripción del proyecto  
 ├── 📁 data/ → Conjunto de datos de reseñas  
-├── 📁 notebooks/ → Jupyter Notebooks con análisis exploratorio  
+├── 📁 notebooks/ → Jupyter Notebooks con análisis exploratorio, limpieza y preparación de datos  
 ├── 📁 models/ → Modelos entrenados  
 ├── 📄 requirements.txt → Librerías necesarias  
 ├── 📄 main.py → Script principal para ejecución  
@@ -48,9 +48,10 @@ python main.py
 <br>
 
 <h3> 📈 Resultados </h3>
+
 - F1-score promedio: 88%
-- Precisión promedio: 86%
-- Recall promedio: 85%
+- Precisión promedio: 88%
+- AUC-ROC promedio: 95%
 - Optimización del análisis con técnicas avanzadas de NLP
 
 <br>
