@@ -1,7 +1,7 @@
 # Richyar121292-Categorizacion-de-opiniones
 
 <h3>🏆 Categorización de Reseñas de Películas</h3>
-Análisis automático de opiniones usando NLP
+Análisis automático de opiniones usando NLP.
 
 <br>
 
