@@ -37,8 +37,9 @@ Supera el mínimo de 0.85 en F1-score, asegurando una mejora en la identificaci�
 <br>
 
 <h3> 🚀 Instalación </h3>
+
 - Clona el repositorio:
-git clone https://github.com/Richyar121292/Categorizacion-reseñas.git
+git clone https://github.com/Richyar121292/Categorizacion-de-opiniones.git
 - Instala las dependencias:
 pip install -r requirements.txt
 - Ejecuta el script principal:
