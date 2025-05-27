@@ -2,17 +2,14 @@
 
 <h3>🏆 Categorización de Reseñas de Películas</h3>
 Análisis automático de opiniones usando NLP.
-
 <br>
 
 <h3> 📊 Categorización de Sentimiento en Reseñas de Películas </h3>Modelo con F1-score de 88%, optimizado para la detección de críticas negativas.
-
 <br>
 
 <h3> 📝 Descripción </h3>Este proyecto desarrolla un modelo de aprendizaje automático para la detección de reseñas negativas en películas, utilizando técnicas de procesamiento de lenguaje natural (NLP).  
 
 Supera el mínimo de 0.85 en F1-score, asegurando una mejora en la identificación de críticas y áreas de mejora.
-
 <br>
 
 <h3> 📂 Estructura del Proyecto </h3>
@@ -24,7 +21,6 @@ Supera el mínimo de 0.85 en F1-score, asegurando una mejora en la identificaci�
 ├── 📁 models/ → Modelos entrenados  
 ├── 📄 requirements.txt → Librerías necesarias  
 ├── 📄 main.py → Script principal para ejecución  
-
 <br>
 
 <h3> 🛠️ Tecnologías Utilizadas </h3>
@@ -33,7 +29,6 @@ Supera el mínimo de 0.85 en F1-score, asegurando una mejora en la identificaci�
 - Visualización: Seaborn, Matplotlib, WordCloud  
 - Modelado: Naïve Bayes, LightGBM, BERT  
 - Evaluación: F1-score, Accuracy, Precision, ROC-AUC  
-
 <br>
 
 <h3> 🚀 Instalación </h3>
@@ -44,8 +39,6 @@ git clone https://github.com/Richyar121292/Categorizacion-de-opiniones.git
 pip install -r requirements.txt
 - Ejecuta el script principal:
 python main.py
-
-
 <br>
 
 <h3> 📈 Resultados </h3>
@@ -54,7 +47,6 @@ python main.py
 - Precisión promedio: 88%
 - AUC-ROC promedio: 95%
 - Optimización del análisis con técnicas avanzadas de NLP
-
 <br>
 
 <h3> 📌 Contribuciones </h3>
