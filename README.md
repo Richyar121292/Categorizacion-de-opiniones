@@ -1,17 +1,19 @@
 # Richyar121292-Categorizacion-de-opiniones
 
 <h3>🏆 Categorización de Reseñas de Películas</h3>
-Análisis automático de opiniones usando NLP.
+Análisis automático de opiniones usando NLP ((Natural Language Processing)
 
 <br><br>
 
 <h3>📊 Categorización de Sentimiento en Reseñas de Películas</h3>
-Modelo con F1-score de 88%, optimizado para la detección de críticas negativas.
+
+Modelo con F1-score de 88%, **optimizado para la detección de críticas negativas.**
 
 <br><br>
 
 <h3>📝 Descripción</h3>
-Este proyecto desarrolla un modelo de aprendizaje automático para la detección de reseñas negativas en películas, utilizando técnicas de procesamiento de lenguaje natural (NLP).  
+
+Este proyecto desarrolla un modelo de **aprendizaje automático para la detección de reseñas negativas** en películas, utilizando técnicas de procesamiento de lenguaje natural (NLP).  
 
 Supera el mínimo de 0.85 en F1-score, asegurando una mejora en la identificación de críticas y áreas de mejora.
 
